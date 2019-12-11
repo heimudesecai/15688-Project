@@ -1,0 +1,10 @@
+pandas
+json
+requests
+bs4
+re
+nltk
+heapq
+tqdm
+matplotlib.pyplot
+matplotlib.dates
